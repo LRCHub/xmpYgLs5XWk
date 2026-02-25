@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Come Fly With Me",
+  "base_artist": "Frank Sinatra",
+  "createdAt": "2026-02-25T04:17:16.912100Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Come Fly With Me",
+      "artist": "Ruelle",
+      "has_synced": true,
+      "path": "select/01_Come_Fly_With_Me_Ruelle.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Come Fly With Me",
+      "artist": "Ruelle",
+      "has_synced": true,
+      "path": "select/02_Come_Fly_With_Me_Ruelle.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Come, Fly With Me",
+      "artist": "JuJu",
+      "has_synced": false,
+      "path": "select/03_Come,_Fly_With_Me_JuJu.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Come Fly With Me",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/04_Come_Fly_With_Me_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Come Fly With Me",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/05_Come_Fly_With_Me_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Come Fly With Me",
+      "artist": "Sinatra, Frank",
+      "has_synced": true,
+      "path": "select/06_Come_Fly_With_Me_Sinatra,_Frank.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Come Fly With Me",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/07_Come_Fly_With_Me_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Come Fly With Me",
+      "artist": "Gian Marco",
+      "has_synced": false,
+      "path": "select/08_Come_Fly_With_Me_Gian_Marco.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Come Fly With Me",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/09_Come_Fly_With_Me_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Come Fly With Me",
+      "artist": "Michael Buble",
+      "has_synced": true,
+      "path": "select/10_Come_Fly_With_Me_Michael_Buble.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Come Fly With Me",
+      "artist": "Greg Perry",
+      "has_synced": true,
+      "path": "select/11_Come_Fly_With_Me_Greg_Perry.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Come Fly With Me",
+      "artist": "WestLife",
+      "has_synced": true,
+      "path": "select/12_Come_Fly_With_Me_WestLife.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Come Fly With Me",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/13_Come_Fly_With_Me_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Come fly with me",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/14_Come_fly_with_me_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Come Fly With Me",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/15_Come_Fly_With_Me_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Come Fly with Me",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/16_Come_Fly_with_Me_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Come Fly with Me",
+      "artist": "Michael Bublé",
+      "has_synced": true,
+      "path": "select/17_Come_Fly_with_Me_Michael_Bublé.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Come Fly With Me",
+      "artist": "Frank Sinatra",
+      "has_synced": false,
+      "path": "select/pl_01_Come_Fly_With_Me_Frank_Sinatra.txt"
+    }
+  ]
+}
